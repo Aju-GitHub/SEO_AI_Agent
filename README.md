@@ -76,3 +76,13 @@ SEO_AI_Agent/
 - Lightweight, fast to deploy, and minimal dependencies.
 
 - Easily extendable using n8n for additional workflows.
+
+**Rights and Usage:**
+
+All reports, documentation, and related artifacts are the intellectual property of Ajmal M S.
+
+Shared resources are provided solely as a record of my involvement, competencies, and learning outcomes.
+
+No content from this repository may be copied, altered, shared, or reused without explicit permission.
+
+© Ajmal M S, 2025
