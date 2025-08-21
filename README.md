@@ -1,6 +1,6 @@
 ## Automated SEO Keyword Agent
 
-This project implements a lightweight AI-powered agent to generate, rank, and automate SEO keyword reporting. Given a seed term, the agent fetches related keywords, ranks them based on search volume and competition, and sends the results to Google Sheets via n8n workflow automation.
+I did this project to stay relevant in today tech landscape. This project implements a lightweight AI-powered agent to generate, rank, and automate SEO keyword reporting. Given a seed term, the agent fetches related keywords, ranks them based on search volume and competition, and sends the results to Google Sheets via n8n workflow automation.
 
 **Repository Structure:**
 
